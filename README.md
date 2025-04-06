@@ -44,8 +44,8 @@ If the URL passed into the get_open_ports function is invalid, the function shou
 
 If the IP address passed into the get_open_ports function is invalid, the function should return the string: "Error: Invalid IP address".
 
-Development
+## Development
 Write your code in port_scanner.py. For development, you can use main.py to test your code.
 
-Testing
+## Testing
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience.
